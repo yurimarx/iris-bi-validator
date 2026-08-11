@@ -1,4 +1,4 @@
-Class dc.sample.unittests.TestObjectScript Extends %UnitTest.TestCase
+Class dc.irisbivalidator.unittests.TestObjectScript Extends %UnitTest.TestCase
 {
 
 Method Test42()

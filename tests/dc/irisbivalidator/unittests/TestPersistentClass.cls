@@ -1,4 +1,4 @@
-Class dc.sample.unittests.TestCreateRecord Extends %UnitTest.TestCase
+Class dc.irisbivalidator.unittests.TestCreateRecord Extends %UnitTest.TestCase
 {
 
 Method TestCreateRecord()

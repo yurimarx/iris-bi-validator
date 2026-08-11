@@ -1,4 +1,4 @@
-Class dc.sample.PersistentClass Extends %Persistent
+Class dc.irisbivalidator.PersistentClass Extends %Persistent
 {
 
 Property Test As %VarString;

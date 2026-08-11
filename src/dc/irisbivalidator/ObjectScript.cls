@@ -1,4 +1,4 @@
-Class dc.sample.ObjectScript
+Class dc.irisbivalidator.ObjectScript
 {
 
 ClassMethod Test() As %Status

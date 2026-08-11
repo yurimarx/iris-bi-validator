@@ -12,8 +12,8 @@
         "service": "iris",
         "internalPort": 52773
       },
-      "active": true,
-    "links": {
+      "active": false,
+      "links": {
         "Error Log": "${serverUrl}/csp/sys/op/UtilSysAppErrorNamespaces.csp"
       }
     },
