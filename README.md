@@ -44,4 +44,5 @@ $ Do ##class(dc.irisbivalidator.IrisBIValidator).ValidateAndGenerateReport("/hom
 
 ** The path of the report can be any valid path in your environment **
 
-2. Open the generated report and see the results
+2. Open the generated report and see the results:
+<img src="https://github.com/yurimarx/iris-bi-validator/blob/master/images/report.png?raw=true">
