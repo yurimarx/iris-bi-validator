@@ -11,9 +11,10 @@
     do ##class(Security.Services).Modify("%Service_CallIn",.prop)
 
     zpm "install passwordless"
+    
     ; importing the source code of the repository as ZPM module
     zn "USER"
-
+    
     ; install a sample to use with this app
     zpm "install samples-bi"
 
