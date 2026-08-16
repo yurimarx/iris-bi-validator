@@ -39,10 +39,11 @@ Or include as a dependency into your project module.xml file. See a sample:
 1. Open IRIS terminal:
 
 ```
-$ Do ##class(dc.irisbivalidator.IrisBIValidator).ValidateAndGenerateReport("/home/irisowner/irisdev/validation_report.html")
+Do ##class(dc.irisbivalidator.IrisBIValidator).ValidateAndGenerateReport("/home/irisowner/dev/validation_report.html")
 ```
+According to the mapping in docker-compose.yml
 
-** The path of the report can be any valid path in your environment **
+** The path of the report can be any valid path in your environment (i used the path mapped in docker-compose.yml **
 
 2. Open the generated report and see the results:
 <img src="https://github.com/yurimarx/iris-bi-validator/blob/master/images/report.png?raw=true">
